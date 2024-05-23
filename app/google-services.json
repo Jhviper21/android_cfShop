@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "851906486764",
+    "firebase_url": "https://loginform-93f4b-default-rtdb.firebaseio.com",
+    "project_id": "loginform-93f4b",
+    "storage_bucket": "loginform-93f4b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:851906486764:android:15737bc34fc6f75595a0c9",
+        "android_client_info": {
+          "package_name": "com.example.loginform"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6RHfOCzX0Kmh23HXhWARqR9Ev9cP6O-g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
